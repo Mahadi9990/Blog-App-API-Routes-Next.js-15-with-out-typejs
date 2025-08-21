@@ -1,0 +1,8 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.tabCompletion": "on",
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2
+}
